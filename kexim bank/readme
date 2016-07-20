@@ -1,0 +1,22 @@
+Created an extra package to store multiple execution class
+please don't get any confusion
+
+Associate the following jar files to the project
+	selenium-java 2.53.0
+	extent reports
+	jxl
+	
+The below are the xml files are related to the execution files
+	gridDemo.xml			----- GridExecution.java
+	parallelDemo.xml		----- ParameterExecution.java
+	parameterDemo.xml	----- ParameterExecution.java
+	testng.xml			----- TestExecution.java
+	gropusExecution.xml	----- GroupsEecution.java
+	
+EFWDExecution class explains Event Firing Webdriver concepts
+(no need of any xml file to execute this class)
+
+ExtentReportExecution class explains extent reports concept
+
+TestExecution class have all the concepts
+
