@@ -1,0 +1,19 @@
+This is utils project which have the 
+	Excel POI class ---  performs some excel related operations using apache POI
+	Excel class --- performs some excel related operations using JXL
+	Screenshots class --- takes screenshots and stores in project/screenshots folder
+	Validations class --- performs validations
+	
+To install this project in local repository execute following command in eclipse
+	1. Import the project into eclipse
+	2. Right click on pom.xml -> Run as -> Maven install
+	3. wait until the execution is finish
+	
+To work with the classes present in this project in your main projects
+	<groupId>projectutilities</groupId>
+	<artifactId>utils</artifactId>
+	<version>1.1</version>
+Add the above dependency to the pom.xml of the main project
+
+please go through the java document of each method to get more knowledge on methods
+	
