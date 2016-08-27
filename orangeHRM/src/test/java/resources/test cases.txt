@@ -1,0 +1,44 @@
+TC1: Verify login functionality
+	1. Launch HRM site
+	2. Verify HRMS title
+	3. Enter valid username
+	4. Enter valid password
+	5. click on login button
+	6. Verify Title and welcome text
+Note: Orange HRM home page, Admin home page
+	
+TC2: Add an Employee 
+	1. Launch HRM site
+	2. Verify HRMS title
+	3. Enter valid username
+	4. Enter valid password
+	5. click on login button
+	6. Verify Title
+	7. Verify welcome text
+	8. Click on PIM Main menu link
+	9. Click on Add employee sub menu link
+	10. Select the frame
+	11. Enter employee first name
+	12. Enter employee last name
+	13. Click on save button
+	14. Exit from frame
+Note: Orange HRM home page, Admin home page, PIM page(Employee information page), Add employee page
+	
+TC3: Add user
+	1. Launch HRM site
+	2. Verify HRMS title
+	3. Enter valid username
+	4. Enter valid password
+	5. click on login button
+	6. Verify Title
+	7. Verify welcome text
+	8. Click on Admin main menu link
+	9. click on add button in user management page
+	10. Select user role
+	11. enter employee name
+	12. enter username
+	13. Select status
+	14. enter password
+	15. enter confirm password
+	16 click on save button
+Note: Orange HRM home page, Admin home page, Add User page
